@@ -39,7 +39,7 @@ All required packages are listed in `requirements.txt`. Key dependencies include
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/abdelrhman-mahmoud/Recognition_Tracking_system)
 cd nursery
 ```
 
